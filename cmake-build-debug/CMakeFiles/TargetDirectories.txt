@@ -1,0 +1,3 @@
+C:/Users/USER/CLionProjects/Uctasoyunu/cmake-build-debug/CMakeFiles/Uctasoyunu.dir
+C:/Users/USER/CLionProjects/Uctasoyunu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/CLionProjects/Uctasoyunu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
